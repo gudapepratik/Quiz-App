@@ -65,7 +65,7 @@ const Quiz = () => {
   return (
 
     
-    <div className='w-screen h-screen bg-blue-950 flex justify-center items-center'>
+   <div className='w-screen h-screen bg-blue-950 flex justify-center items-center'>
   <div className="flex lg:w-1/3 sm:w-3/5 items-center bg-white/30 flex-col p-4 rounded-2xl backdrop-blur-xl">
     <h1 className="text-3xl font-bold text-white w-full px-4 text-center my-3">Quiz App</h1>
     <hr className="my-2 border-1 w-full"/>
